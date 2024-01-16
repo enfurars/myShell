@@ -1,5 +1,5 @@
 # myShell
-Detailed project descrtiption can be found here.
+Detailed project descrtiption can be found [here](https://github.com/enfurars/myShell/blob/main/Project-Description.pdf).
 
 ## Manuals to Run myShell in Linux
 myShell can be started by running:
